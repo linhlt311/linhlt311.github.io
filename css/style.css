@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "Enso";
+    src: url("../font/enso.ttf");
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+@import url('../font/themify-icons/themify-icons.css');
+
+
+
+html {
+    width : 1920px;
+}
+
+body {
+    background-image: url("../images/Rectangle (2).jpg");
+    background-repeat: no-repeat;
+ }
+
+ .rectangle {
+    height: 875px;	
+    width: 1920px;
+}
+
+.hapo-erp {
+    height: 77px;	
+    width: 256px;	
+    color: #AED581;	
+    font-family: "Enso";	
+    font-size: 64px;	
+    line-height: 77px;
+
+    position: absolute;
+    margin-left: 832px;
+    margin-top: 244px;
+}
+
+.about-us {	
+    height: 16px;	
+    width: 66px;	
+    color: #283238;	
+    font-family: 'Roboto', sans-serif;	
+    font-size: 11.5px;	
+    font-weight: 700;	
+    letter-spacing: 1px;	
+    line-height: 16px;
+
+    position:absolute;
+    margin-top:53px;
+    margin-left:1344px;
+}
+
+.rectangle-2 {	
+    height: 36px;	
+    width: 82px;	
+    border: 2px solid #8BC34A;	
+    border-radius: 100px;
+
+    position: absolute;
+    top: 43px;
+    margin-left: 1448px;
+}
+
+.sign-in {	
+    height: 16px;	
+    width: 55px;	
+    color: #8BC34A;	
+    font-family: "Roboto", sans-serif;	
+    font-size: 12px;	
+    font-weight: 500;	
+    letter-spacing: 1px;	
+    line-height: 16px;
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.rectangle-2-copy {	
+    height: 60px;	
+    width: 225px;	
+    border-radius: 100px;	
+    background: linear-gradient(311.12deg, #B4EC51 0%, #429321 100%);	
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+
+    position: absolute;
+    margin-left: 847px;
+    margin-top: 583px;
+}
+
+.start-now {	
+    height: 24px;	
+    width: 120px;	
+    color: #FFFFFF;	
+    font-family: "Roboto", sans-serif;	
+    font-size: 18px;	
+    font-weight: 500;	
+    letter-spacing: 1px;	
+    line-height: 24px;
+
+    position: absolute;
+    margin-top: 18px;
+    margin-left: 56px;
+}
+
+.icon-161-themify {	
+    height: 0.94%;	
+    width: 2.71%;	
+    color: #283238;	
+    font-size: 48px;	
+    letter-spacing: 4px;	
+    line-height: 48px;
+
+    position: absolute;
+    margin-top: 374px;
+    margin-left: 607px;
+}
+
